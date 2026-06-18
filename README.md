@@ -26,26 +26,30 @@ Node.js installed
 npm installed (comes with Node.js)
 VS Code (recommended)
 
-Check installation:
+**Check installation:**
 
 node -v
 npm -v
-Step 1: Clone the Repository
+
+**Step 1: Clone the Repository**
+
 git clone https://github.com/YOUR_USERNAME/Radius.git
 
 Replace YOUR_USERNAME with your GitHub username.
 
-Step 2: Open the Project Folder
+**Step 2: Open the Project Folder**
+
 cd Radius
-Step 3: Install Dependencies
+
+**Step 3: Install Dependencies**
 npm install
 
 This will download all required packages.
 
-Step 4: Start Development Server
+**Step 4: Start Development Server**
 npm run dev
 
-You should see output similar to:
+**You should see output similar to:**
 
 VITE v8.x ready
 
@@ -60,7 +64,7 @@ The Radius frontend should now be running.
 
 
 
-Project Structure
+**Project Structure**
 Radius
 │
 ├── public
