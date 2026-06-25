@@ -1,0 +1,6 @@
+{
+  "name": "Radius",
+  "description": "A minimalist, hyperlocal creator-brand matchmaking platform. Streamlines campaign creation, batch dispatching, escrow management, and location-verified content submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
